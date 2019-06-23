@@ -1,0 +1,2 @@
+Date,Time,Source MAC,Source IP,Source port,Dest MAC,Dest IP,Dest Port,Protocol,"Good Packet=1,Bad Packet=0","Allowed=1,Blocked=0",Software Version,Open Ports
+9/1/2018,12:00,64-00-6A-FC-DE-EC,256.3.128.12,33790,00-14-22-01-23-45,221.3.148.52,80,TCP,1,0,2.1.1,TCP
